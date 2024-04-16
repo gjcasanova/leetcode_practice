@@ -7,3 +7,11 @@ LeetCode is a popular platform for practicing coding skills through a vast array
 
 ## Disclaimer
 Please note that while these solutions have been thoroughly tested, they may not be the most optimal or efficient solutions for every problem. Coding is an art, and there can be multiple correct ways to solve a problem. Feel free to suggest improvements or optimizations!
+
+## Solutions
+
+### Top Interview 150
+
+| Problem | Verdict |
+|--|--|
+| [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/description/) | Accepted |

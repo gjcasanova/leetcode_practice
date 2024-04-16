@@ -20,6 +20,7 @@ Follow the rules below to contribute.
 | report | Creation of reports |
 | test | Creation of tests |
 | docs | Creation of technical or user documentation |
+| solve | Creation of a new solution for a problem |
 
 ### Commit messages
 A commit message must follow the format below:
