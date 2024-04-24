@@ -15,3 +15,4 @@ Please note that while these solutions have been thoroughly tested, they may not
 | Problem | Verdict |
 |--|--|
 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/description/) | Accepted |
+| [Jump Game](https://leetcode.com/problems/jump-game/description/) | Accepted |
